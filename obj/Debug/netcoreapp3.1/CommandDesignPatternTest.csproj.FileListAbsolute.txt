@@ -1,0 +1,13 @@
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\bin\Debug\netcoreapp3.1\CommandDesignPatternTest.exe
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\bin\Debug\netcoreapp3.1\CommandDesignPatternTest.deps.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\bin\Debug\netcoreapp3.1\CommandDesignPatternTest.runtimeconfig.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\bin\Debug\netcoreapp3.1\CommandDesignPatternTest.runtimeconfig.dev.json
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\bin\Debug\netcoreapp3.1\CommandDesignPatternTest.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\bin\Debug\netcoreapp3.1\CommandDesignPatternTest.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\obj\Debug\netcoreapp3.1\CommandDesignPatternTest.csprojAssemblyReference.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\obj\Debug\netcoreapp3.1\CommandDesignPatternTest.csproj.CoreCompileInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\obj\Debug\netcoreapp3.1\CommandDesignPatternTest.AssemblyInfoInputs.cache
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\obj\Debug\netcoreapp3.1\CommandDesignPatternTest.AssemblyInfo.cs
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\obj\Debug\netcoreapp3.1\CommandDesignPatternTest.dll
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\obj\Debug\netcoreapp3.1\CommandDesignPatternTest.pdb
+C:\Users\user-000\Desktop\Hobby\vsCommunity_workspace\CommandDesignPatternTest\obj\Debug\netcoreapp3.1\CommandDesignPatternTest.genruntimeconfig.cache
